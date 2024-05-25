@@ -1,0 +1,60 @@
+.TXT-V{
+    color:violet;
+}
+.TXT-B{
+    color:blue;
+}
+.TXT-S{
+    color:Skyblue;
+}
+.TXT-G{
+    color:green;
+}
+.TXT-Y{
+    color:Yellow;
+}
+.TXT-O{
+    color:Orange;
+}
+.TXT-R{
+    color:Red;
+}
+.TXT-W{
+    color:white;
+}
+
+.TXT-Bl{
+    color:black;
+}
+
+
+.BG-V{
+    background-color:violet;
+}
+.BG-B{
+    background-color:blue;
+}
+.BG-S{
+    background-color:Skyblue;
+}
+.BG-G{
+    background-color:green;
+}
+.BG-Y{
+    background-color:Yellow;
+    
+}
+.BG-O{
+    background-color:Orange;
+}
+.BG-R{
+    background-color:Red;
+}
+
+.BG-W{
+    background-color:white;
+}
+
+.BG-Bl{
+    background-color:black;
+}
