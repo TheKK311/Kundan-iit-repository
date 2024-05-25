@@ -1,0 +1,11 @@
+{
+  "name": "kundan-iit-repository",
+  "version": "1.0.0",
+  "description": "custome css",
+  "main": "1",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "kundan kumar",
+  "license": "ISC"
+}
